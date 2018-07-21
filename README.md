@@ -4,10 +4,10 @@ This is a recommendation system that implements both collaborative and content b
 ## Results
 ### Warp  
 User 3  
-    Known Positives:  
-        Seven (Se7en) (1995)  
-        Contact (1997)  
-        Starship Troopers (1997)  
+&nbsp;&nbsp;&nbsp;&nbsp;Known Positives:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seven (Se7en) (1995)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contact (1997)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Starship Troopers (1997)  
     Recommended:  
         Scream (1996)  
         Starship Troopers (1997)  
