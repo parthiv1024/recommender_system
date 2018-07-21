@@ -29,6 +29,7 @@ def sample_recommendation(model, data, user_ids):
 	for user_id in user_ids:
 
 		# Movies they already like
+		# CSR stands for Compressed Sparse Row format. We find all the movies in the training dataset that user_id likes (>=4.0 rating) and we find its indices to index the item labels dataset to get the actual movie names
 		known_positives = data['item_labels'][data['train'].tocsr()[user_id].indices]
 
 		# Movies our model predicts they will like
